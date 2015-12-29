@@ -374,3 +374,12 @@ width: 1px;
 margin: -1px;
 padding: 0;
 border: 0; }
+
+@mixin hidden { 
+   display: none; 
+   visibility: hidden; 
+} 
+@mixin shown { 
+   display: block; 
+   visibility: visible 
+} 
