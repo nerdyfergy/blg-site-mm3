@@ -1,9 +1,9 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "Bamboo Law Group, PLLC is a Washington law practice that focuses on helping all small businesses and startups, with an emphasis on software development."
+tags: [lawyer, attorney, small business attorney, startup attorney, videogame attorney]
 image:
-  feature: sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: blg-bg.jpg
+  credit: Alex Keda
+  creditlink: https://unsplash.com/photos/gDw0-4vbkkY
 ---
