@@ -737,11 +737,9 @@ $button-size: 1.5rem;
 		*/
 .largeshow {
 	
-	@media #{$small} {
-		display: none;
-	}
+	@include hidden;
 	@media #{$x-large} {
-		display: block;
+		@include shown;
 	}
 }
 .smallshow {
