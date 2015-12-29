@@ -50,13 +50,14 @@
       </div>
       {% endfor %}
     </div>
-    <h3><a href="{{ site.url}}/posts/">Contact Us</a></h3>
+    <h3><a href="{{ site.url}}/contact/">Contact Us</a></h3>
+    <p>Contact us via the sidebar, or submit the below form with your general question or request.</p>
     <form action="//formspree.io/your@email.com" method="POST">
-     <input type="text" name="name">
-     <input type="text" name="_replyto" placeholder="Your email" />
+     <input type="text" name="name" placeholder:="Your Name" class="fifty">
+     <input type="text" name="_replyto" placeholder="Your email" class="fifty"/>
      <input type="hidden" name="_next" value="//site.io/thanks.html" />
-     <input type="hidden" name="_subject" value="New submission!" />
-     <textarea placeholder="Your message"></textarea>
+     <input type="hidden" name="_subject" value="New submission!" class="fifty"/>
+     <textarea placeholder="Your message" class="textbox-sizing"></textarea>
      <input type="submit" value="Send">
     </form> 
   </div><!-- /#index -->
