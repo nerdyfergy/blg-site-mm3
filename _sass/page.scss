@@ -732,3 +732,22 @@ $button-size: 1.5rem;
 #goog-wm-sb {
 	@extend .btn;
 }
+/* 
+	just testing
+		*/
+.largeshow {
+	@media #{$small} {
+		@include hidden;
+	}
+	@media #{$x-large} {
+		@include shown;
+	}	
+}
+.smallshow {
+	@media #{$small} {
+		@include shown;
+	}
+	@media #{$x-large} {
+		@include hidden;
+	}
+}
