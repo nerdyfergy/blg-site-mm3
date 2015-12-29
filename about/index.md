@@ -17,6 +17,12 @@ Phasellus urna ipsum, lacinia non lacinia non, malesuada non felis. Ut commodo v
 
 ## Our Attorney:
 Alex Ferguson
+<figure class="third">
+	<img src="http://placehold.it/600x300.jpg">
+	<img src="http://placehold.it/600x300.jpg">
+	<img src="http://placehold.it/600x300.jpg">
+	<figcaption>Three images.</figcaption>
+</figure>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at tempus ipsum. Donec suscipit neque eu lorem vulputate, sed molestie nulla pharetra. Nunc eget tellus in nisi auctor lobortis. Nunc vestibulum, quam sit amet ultrices pretium, nibh ligula varius arcu, eu faucibus risus neque ac ante. In sagittis porttitor suscipit. Cras vestibulum sodales nisl, a condimentum justo maximus sit amet. Nulla in mollis augue. Vivamus molestie est dolor, in congue odio rhoncus eget. Sed eleifend vel quam vitae fringilla. Nam ut metus ac mauris efficitur lobortis. Mauris mollis ligula a massa hendrerit, eu lacinia elit fringilla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc quis ex faucibus, maximus lacus sed, tincidunt arcu. Proin sed felis et est commodo lacinia ultricies rhoncus felis. Suspendisse vulputate tristique nisl, eget consequat lacus consequat eget. Praesent tristique dolor faucibus odio vulputate ullamcorper.
 
