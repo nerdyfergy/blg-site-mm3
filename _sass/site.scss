@@ -70,3 +70,22 @@
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a {
 	@include transition(all .2s ease);
 }
+/* 
+	just testing
+		*/
+.largeshow {
+	@media #{$small} {
+		@include hidden;
+	}
+	@media #{$x-large} {
+		@include shown;
+	}	
+}
+.smallshow {
+	@media #{$small} {
+		@include shown;
+	}
+	@media #{$x-large} {
+		@include hidden;
+	}
+}
