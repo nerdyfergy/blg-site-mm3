@@ -62,6 +62,7 @@
             <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
           {% endif %}
         </article>
+      {% endfor %}
     </div>
     <h3><a href="{{ site.url}}/contact/">Contact Us</a></h3>
     <p>Contact us via the sidebar, or submit the below form with your general question or request.</p>
