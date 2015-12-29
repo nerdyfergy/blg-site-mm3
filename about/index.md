@@ -1,25 +1,23 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
+title: About Our Firm
+tags: [washingtong lawyer, washington attorney, seattle attorney, seattle videogame attorney]
+modified: 
+comments: false
 image:
   feature: sample-image-2.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at tempus ipsum. Donec suscipit neque eu lorem vulputate, sed molestie nulla pharetra. Nunc eget tellus in nisi auctor lobortis. Nunc vestibulum, quam sit amet ultrices pretium, nibh ligula varius arcu, eu faucibus risus neque ac ante. In sagittis porttitor suscipit. Cras vestibulum sodales nisl, a condimentum justo maximus sit amet. Nulla in mollis augue. Vivamus molestie est dolor, in congue odio rhoncus eget. Sed eleifend vel quam vitae fringilla. Nam ut metus ac mauris efficitur lobortis. Mauris mollis ligula a massa hendrerit, eu lacinia elit fringilla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc quis ex faucibus, maximus lacus sed, tincidunt arcu. Proin sed felis et est commodo lacinia ultricies rhoncus felis. Suspendisse vulputate tristique nisl, eget consequat lacus consequat eget. Praesent tristique dolor faucibus odio vulputate ullamcorper. 
 
-## Minimal Mistakes is all about:
+Phasellus urna ipsum, lacinia non lacinia non, malesuada non felis. Ut commodo velit id dolor commodo scelerisque. Sed id risus eu enim aliquam egestas quis vel orci. Aenean venenatis blandit risus, in auctor leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In gravida, nibh volutpat gravida feugiat, lorem justo tempor neque, sed rhoncus ante arcu ut tortor. Suspendisse id magna condimentum, pulvinar dolor rhoncus, facilisis nibh. Integer posuere dolor mauris, hendrerit hendrerit arcu euismod eget. Mauris suscipit turpis at elit pulvinar facilisis. Donec urna erat, fermentum at congue in, pharetra vel nisl. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque malesuada velit ac purus placerat eleifend. Ut imperdiet augue ac sapien efficitur porta.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+## Our Attorney:
+Alex Ferguson
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at tempus ipsum. Donec suscipit neque eu lorem vulputate, sed molestie nulla pharetra. Nunc eget tellus in nisi auctor lobortis. Nunc vestibulum, quam sit amet ultrices pretium, nibh ligula varius arcu, eu faucibus risus neque ac ante. In sagittis porttitor suscipit. Cras vestibulum sodales nisl, a condimentum justo maximus sit amet. Nulla in mollis augue. Vivamus molestie est dolor, in congue odio rhoncus eget. Sed eleifend vel quam vitae fringilla. Nam ut metus ac mauris efficitur lobortis. Mauris mollis ligula a massa hendrerit, eu lacinia elit fringilla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc quis ex faucibus, maximus lacus sed, tincidunt arcu. Proin sed felis et est commodo lacinia ultricies rhoncus felis. Suspendisse vulputate tristique nisl, eget consequat lacus consequat eget. Praesent tristique dolor faucibus odio vulputate ullamcorper.
+
+<a markdown="0" href="{{ site.url }}/contact" class="btn">View Our Contact Info</a>
