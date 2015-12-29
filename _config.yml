@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Bamboo Law Group, PLLC
 locale:           en_US
-url:
+url:              http://nerdyfergy.github.io/blg-site-mm3
 
 
 # Jekyll configuration
@@ -25,10 +25,10 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Alex Ferguson
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  bio: "Washington State Attorney."
+  email: test@test.org
   disqus-shortname:
   twitter: #username
   facebook: #username
