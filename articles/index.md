@@ -1,4 +1,3 @@
-
 ---
 layout: post-index
 title: All Articles
