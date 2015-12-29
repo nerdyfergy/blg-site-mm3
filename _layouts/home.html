@@ -45,6 +45,15 @@
       {% endif %}
     </article>
     {% endfor %}
+    <h3><a href="{{ site.url}}/posts/">Contact Us</a></h3>
+    <form action="//formspree.io/your@email.com" method="POST">
+     <input type="text" name="name">
+     <input type="text" name="_replyto" placeholder="Your email" />
+     <input type="hidden" name="_next" value="//site.io/thanks.html" />
+     <input type="hidden" name="_subject" value="New submission!" />
+     <textarea placeholder="Your message"></textarea>
+     <input type="submit" value="Send">
+    </form> 
   </div><!-- /#index -->
 </div><!-- /#main -->
 
