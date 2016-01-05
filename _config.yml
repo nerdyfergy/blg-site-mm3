@@ -27,7 +27,7 @@ kramdown:
 owner:
   name: Bamboo Law Group
   avatar: bio-photo.jpg
-  bio: "A Washington Law Firm."
+  bio: "A Washington Law Firm that focuses on helping indiviudals, small businesses, and startups. We love working in the videogame industry and helping developers, streamers, and eSports atheletes."
   email: test@test.org
   disqus-shortname:
   twitter: #username
@@ -39,8 +39,8 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  github: username
+  stackoverflow: 123456/username  # from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
   instagram: #username
