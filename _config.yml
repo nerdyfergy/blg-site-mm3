@@ -33,11 +33,13 @@ owner:
   twitter: #username
   facebook: #username
   google:
-    plus: #username
+    plus: username
     analytics:
     verify:
     ad-client:
     ad-slot:
+  skype: skype
+  phone: 222-555-7777
   bing-verify:
   github: username
   stackoverflow: 123456/username  # from a "http://stackoverflow.com/users/123456/username" link
