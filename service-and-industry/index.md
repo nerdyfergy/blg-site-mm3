@@ -9,6 +9,7 @@ image:
   credit: Visualhunt
   creditlink: http://visiualhunt.com/
 ---
+{% include _toc.html %}
 Bamboo Law Group is a law firm in Seattle, Washington, but represents clients from all over the world. We offer affordable legal services in the following areas:
 
 ## Contracts
