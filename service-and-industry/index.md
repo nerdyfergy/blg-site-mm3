@@ -5,9 +5,9 @@ tags: [washingtong lawyer, washington attorney, seattle attorney, seattle videog
 modified: 
 comments: false
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: https://trello-attachments.s3.amazonaws.com/5682dba21ef46de42206db55/1600x1067/fa09531870ca9b74d64709c6dd5f466d/black-and-white-city-man-people.jpg
+  credit: Visualhunt
+  creditlink: http://visiualhunt.com/
 ---
 Bamboo Law Group is a law firm in Seattle, Washington, but represents clients from all over the world. We offer affordable legal services in the following areas:
 
