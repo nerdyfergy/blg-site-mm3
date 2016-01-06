@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Legal Services
+title: Legal Services and Industries Served
 tags: [washingtong lawyer, washington attorney, seattle attorney, seattle videogame attorney]
 modified: 
 comments: false
