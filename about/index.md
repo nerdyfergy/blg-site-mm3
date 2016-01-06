@@ -11,6 +11,7 @@ image:
 ---
 The Bamboo Law Group is a Professional Limited Liability Company located in Seattle, Washington that provides clients from all over the world with high quality legal services. Like the plant, we are versitile and flexible, offering a wide variety of different legal services at affordable rates. If you have special needs, we are more than happy to tailor our services and pricing to fit your business model. Our practice has a focus on helping individuals, small businesses, and startups and excels in providing reliable legal advice and drafting high quality work product to support your business needs.
 
+
 The firm was started in 2014, originally under the name Ferguson Trademark. The focus of the firm changed from just a small trademark practice to a more full service law firm. Ferguson Trademark had its name changed in 2016 and Bamboo Law Group became the new name. Bamboo was selected as the firm's new name because it symbolizes ... . 
 
 
