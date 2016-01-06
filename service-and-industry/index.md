@@ -35,16 +35,18 @@ If you have a team of developers, forming a business is even more important. In 
 + Partnership/Operating Agreements
 + Corporate by-laws
 
+## General Counsel Services
 
-## Startups - Tech and Game Devs
+# Industries
+
+## Startups
 privacy policies
 terms of service
 copyright and trademarks
 
-## small businesses
+## Small Businesses
 business plan and handbooks
 
-
-## Advice and Counsel
-
 ## eSports
+
+## Game Devs
