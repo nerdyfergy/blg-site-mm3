@@ -20,8 +20,9 @@ Ensuring a well drafting contract is in place offers you peace of mind and ensur
 
 It is equally important to understand the terms and conditions that you are agreeing to be subject to when you enter an agreement with another party. You know that the terms in a contract someone else is asking you to sign can have real world consequences. You have an opportunity to have someone like us review those terms and explain to you what they mean and how you can be liable if things go wrong. 
 We work on a wide variety of contracts and agreements for our clients, including official contest and sweepstakes rules, distribution agreements, and leases. Some of the more common types of agreements that our clients have us work on are:
-* Independent Contractor Agreements
-  * Protect your product and ensure that you own all of your product by using a clearly worded agreement that lays out the roles and responsibilities of each party.
+<ul>Independent Contractor Agreements
+  <li> Protect your product and ensure that you own all of your product by using a clearly worded agreement that lays out the roles and responsibilities of each party.</li>
+</ul>
 * Software and Copyright  Licenses and Assignments
   * If you are the one receiving the license, then make sure that the agreement covers all of the rights, titles, and interests that you are expecting. If you are the one granting a license or assignment, then make sure that you understand what rights you keep and how you can exercise those rights. 
 * Non-Disclosure Agreements or Confidentiality Agreements
