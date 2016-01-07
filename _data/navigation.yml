@@ -6,8 +6,11 @@
 - title: Contact
   url: /contact/
 
-- title: Services & Industries
-  url: /service-and-industry/
+- title: Services
+  url: /services/
+
+- title: Industries
+  url: /industries/
 
 - title: Articles
   url: /articles/
