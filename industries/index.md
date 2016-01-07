@@ -63,4 +63,4 @@ We know that your startup is your life and you might not necessarily have the ti
 
 Spend some time talking with us and see if it is a good fit first. We offer free consultations and want to hear about your business and your needs. We are also flexible when it comes to cost and can figure out something that works for your business strategy and income. If you can only afford a little bit of time, we can charge an affordable hourly rate. If you know you have things come up and need to be able to ask someone, we can work off of a block rate. If you just need a single project done, we can quote you a flat amount for that project. Contact us and let us know how we can help. 
 
-## International Businesses/Startups
+<a markdown="0" href="{{ site.url }}/contact" class="btn">View Our Contact Info</a>
