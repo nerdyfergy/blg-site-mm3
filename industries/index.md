@@ -49,8 +49,13 @@ We can help freelancers and firms with the following:
 * Drafting and Reviewing Contracts
   * Independent Contractor Agreements (Work for Hire)
   * Non-Disclosure Agreements (NDAs) and Confidentiality Agreements
-  * Project Agreements for use with clients
+  * General Business Agreements
+* Drafting Terms of Service Agreements and Privacy Policies
 * Business Formation (LLCs)
+* Resolving Disputes
+  * Domain Name Disputes
+  * Content Creation
+  * ISPs
 * Protecting your IP
 
 ## Startups
