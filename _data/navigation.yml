@@ -11,6 +11,16 @@
 
 - title: Industries
   url: /industries/
+  subcategories: 
+    - subtitle: "Game Developers" 
+      subhref: "/game-devs-law/" 
+    - subtitle: "Startups & Businesses" 
+      subhref: "/startups-law/" 
+    - subtitle: "eSports" 
+      subhref: "/eSports-law/" 
+    - subtitle: "International Businesses"
+      subhref: "/intl-business-law/"
+
 
 - title: Articles
   url: /articles/
