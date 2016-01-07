@@ -27,6 +27,8 @@ We work on a wide variety of contracts and agreements for our clients, including
   * If you are the one receiving the license, then make sure that the agreement covers all of the rights, titles, and interests that you are expecting. If you are the one granting a license or assignment, then make sure that you understand what rights you keep and how you can exercise those rights. 
 * Non-Disclosure Agreements or Confidentiality Agreements
   * Depending on your business, this can be one of the most important documents that you have employees, contractors, or business partners sign. It is important to review these documents to find out what can be disclosed, to who, and when, as well as what the possible consequences are if you or one of your agents makes an unauthorized disclosure.
+  
+<a markdown="0" href="{{ site.url }}/contact" class="btn">View Our Contact Info</a>
 
 ## Forming Your Business
 Forming a business is almost always going to be more beneficial in the long run than operating as an unformed entity. The cost of filing and maintaining a formation is relatively low and it can be done relatively quickly. For example, in Washington, it costs $200 and takes 2-5 business days to file an LLC (as of 1/6/2016). The benefits of operating under a formed business entity are huge. Even if you are a solo developer releasing an app or program for free, there are still benefits to releasing the product under a legally formed business entity. Aside from potential tax benefits, a properly formed and maintained business can protect your personal assets from liability that may arise from your business dealings.  
@@ -36,6 +38,8 @@ If you have a team of developers, forming a business is even more important. In 
 There are several differnt corporate forms and you should consult with an attorney to know if you are choosing the right form, but generally, you will probably want an LLC as it offers the most flexibility in how the business is structured and run, while still providing limited liability protection.
 
 Depending on your situation (single person business vs. multiple founders/directors) and chosen business structure (LLC vs. Class C Corporation), there may be other expenses and obligations to be aware of. Things like operating agreements, corporate compliance, and by-laws can come into play and it pays to have someone advise you through some of the risks and liabilities. 
+
+<a markdown="0" href="{{ site.url }}/contact" class="btn">View Our Contact Info</a>
 
 ## Advice and General Counsel Services
 We are an experienced in providing general counsel services and are available to assist your company at any time and in any capacity. The cost of an in-house legal team or an attorney on full retainer is expensive and can negate the benefit of having an attorney on staff. We commit to learning the goals of your business and craft legal solutions that fit into the overall mission of your company. We can help with a particular legal question that is bothering you, or provide a thorough review of your business, on either a one-time or an on-going basis.     
