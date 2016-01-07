@@ -33,6 +33,6 @@ Spend some time talking with us and see if it is a good fit first. We offer free
 ## eSports
 While we still love to play games, we have gotten a lot of joy watching professional athelets play in the last few years and generally watching as eSports has begun to take off. Our reflexes have dulled and we can't own anyone in CS:GO anymore (could we ever?) and we feed just a little too often to be useful in MOBAs (or "Hero Brawlers", if you're Blizzard), so we needed to find another way to get involved in the sport because our dream of ever being good enough to win a tournament has passed. Our new professional gaming dream rests with you, because we would love to represent eSports atheletes and teams in making your dreams of being professional gamers come true.
 
-We can help with visas, reviewing and negotiating contracts, structuring your team's business to protect your assets, and protecting your IP. That way you can focus on being the best and achieve ~~our~~ your dreams of travelling the world and striving to be the best.
+We can help with visas, reviewing and negotiating contracts, structuring your team's business to protect your assets, and protecting your IP. That way you can focus on being the best and achieve your dreams of travelling the world and being the best.
 
 ## International Businesses/Startups
