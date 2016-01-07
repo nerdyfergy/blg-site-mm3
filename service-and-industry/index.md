@@ -61,13 +61,9 @@ We know that your startup is your life and you might not necessarily have the ti
 
 Spend some time talking with us and see if it is a good fit first. We offer free consultations and want to hear about your business and your needs. We are also flexible when it comes to cost and can figure out something that works for your business strategy and income. If you can only afford a little bit of time, we can charge an affordable hourly rate. If you know you have things come up and need to be able to ask someone, we can work off of a block rate. If you just need a single project done, we can quote you a flat amount for that project. Contact us and let us know how we can help. 
 
-## Small Businesses
-
-
 ## eSports
 While we still love to play games, we have gotten a lot of joy watching professional athelets play in the last few years and generally watching as eSports has begun to take off. Our reflexes have dulled and we can't own anyone in CS:GO anymore (could we ever?) and we feed just a little too often to be useful in MOBAs (or "Hero Brawlers", if you're Blizzard), so we needed to find another way to get involved in the sport because our dream of ever being good enough to win a tournament has passed. Our new professional gaming dream rests with you, because we would love to represent eSports atheletes and teams in making your dreams of being professional gamers come true.
 
 We can help with visas, reviewing and negotiating contracts, structuring your team's business to protect your assets, and protecting your IP. That way you can focus on being the best and achieve ~~our~~ your dreams of travelling the world and striving to be the best.
-
 
 ## International Businesses/Startups
