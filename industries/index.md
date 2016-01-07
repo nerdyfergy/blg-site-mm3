@@ -15,6 +15,7 @@ Bamboo Law Group is happy to help anyone, regardless of what industry you work i
 
 ## Game Devs
 We might have grown up, but we have never grown out of gaming. Helping indie game developers with their business is why we went to law school and became attorneys. It has been really rewarding to fulfill our dream of representing game developers as clients. We can help you in the following ways:
+
 * Structuring your business
   * Protect yourself from personal liability arising from your busienss deals
 * Drafting Agreements to protect your business
