@@ -10,7 +10,6 @@
   url: /services/
 
 - title: Industries
-  url: /industries/
   subcategories: 
     - subtitle: "Game Developers" 
       subhref: "/game-devs-law/" 
