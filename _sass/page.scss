@@ -752,6 +752,40 @@ $button-size: 1.5rem;
 	}
 }
 /* CSS Dropdown */
+/*fixing sideways ul */
+.navigation {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  background: rgb(58,58,58);
+  border-top: solid 3px #fff;
+  border-bottom: solid 3px #fff;
+  /*
+  box-shadow:  0px -2px 3px -1px rgba(0, 0, 0, 1);
+  */
+}
+
+.navigation li {
+  float: left;
+}
+
+.navigation li:hover {
+  background: #222;
+}
+
+.navigation li:first-child {
+  -webkit-border-radius: 5px 5px 0 0;
+  border-radius: 5px 0 0 5px;
+}
+
+.navigation li a {
+  display: block;
+  padding: 0 20px;
+  text-decoration: none;
+  line-height: 40px;
+  color: #fff;
+}
+/* below works sideways */
 .nav ul {
 	display: none;
 	position: absolute;
