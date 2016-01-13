@@ -808,12 +808,13 @@ $button-size: 1.5rem;
 .nav li:hover > ul li:hover {
   -webkit-border-radius: 0 0 5px 5px;
   border-radius: 0 0 5px 5px;
+  border: 0;
 }
 
 .nav li li a:hover {
   background: #000;
   color: #fff;
-  border: 0px;
+  border: 0;
 }
 
 .nav ul li:last-child a,
