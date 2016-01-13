@@ -793,7 +793,8 @@ $button-size: 1.5rem;
   background: #222;
   border: solid 3px #fff;
   border-top: 0;
-  
+  color: #fff;
+  z-index: 100;
   -webkit-border-radius: 0 0 8px 8px;
   border-radius: 0 0 8px 8px;
   
