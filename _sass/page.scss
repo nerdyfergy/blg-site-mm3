@@ -789,6 +789,7 @@ $button-size: 1.5rem;
 }
 .nav ul li {
   float: none;
+  border: 0;
 }
 
 .nav li:hover > ul {
@@ -821,4 +822,5 @@ $button-size: 1.5rem;
 .nav ul li:last-child a:hover {
   -webkit-border-radius: 0 0 5px 5px;
   border-radius: 0 0 5px 5px;
+  border: 0;
 }
