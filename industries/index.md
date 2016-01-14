@@ -26,9 +26,10 @@ We might have grown up, but we have never grown out of gaming. Helping indie gam
   * DMCA takedowns
   * Cease and Desist Letters and Responses
   * Licensing rights
-
-<a markdown="0" href="{{ site.url }}/contact" class="btn">View Our Contact Info</a>
-
+<div class="split50">
+  <a markdown="0" href="{{ site.url }}/contact" class="btn halvsies">View Our Contact Info</a>
+  <a markdown="0" href="{{ site.url }}/game-devs-law/" class="halvsies">More about Game Dev Law</a>
+</div>
 ## eSports
 While we still love to play games, we have gotten a lot of joy watching professional athelets play in the last few years and generally watching as eSports has begun to take off. Our reflexes have dulled and we can't own anyone in CS:GO anymore (could we ever?) and we feed just a little too often to be useful in MOBAs (or "Hero Brawlers", if you're Blizzard), so we needed to find another way to get involved in the sport because our dream of ever being good enough to win a tournament has passed. Our new professional gaming dream rests with you, because we would love to represent eSports atheletes and teams in making their dreams of being professional gamers come true.
 
