@@ -42,16 +42,17 @@
     {% include _static.html %}
     <h3><a href="{{ site.url}}/posts/">Recent Articles</a></h3>
     <p>Articles are written in plain english and offered as general advice on a variety of legal topics.</p>
-      {% for post in site.post limit:5 %}
-        <article>
-          {% if post.link %}
-            <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
-          {% else %}
-            <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-            <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-          {% endif %}
-        </article>
-      {% endfor %}
+      {% for post in site.posts limit:3 %}
+    <article>
+      {% if post.link %}
+        <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
+      {% else %}
+        <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+      {% endif %}
+    </article>
+    {% endfor %}
+
     
     <h3><a href="{{ site.url}}/contact/">Contact Us</a></h3>
     <p>We offer free thirty minute consultations! Contact us via the sidebar, or submit the below form with your general question or request.</p>
