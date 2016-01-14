@@ -75,7 +75,8 @@ body {
 		}
 		@media #{$small} {
 			display: inline;
-			margin-right: 25px;
+			margin: 0 auto;
+			text-align: center;
 			white-space: nowrap;
 			border-bottom: 0 solid transparent;
 		}
