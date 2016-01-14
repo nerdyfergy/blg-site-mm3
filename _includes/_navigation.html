@@ -9,7 +9,7 @@
         {% if dale.subcategories != null %}
           <div id="jq-dropdown-1" class="jq-dropdown jq-dropdown-tip">
             <ul class="jq-dropdown-menu">
-              <a href="{{ site.url }}{{ dale.url }}" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">{{ dale.title }}<i class="fa fa-angle-down"></i></a>
+              <a href="{{ site.url }}{{ dale.url }}" data-jq-dropdown="#jq-dropdown-1" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">{{ dale.title }}<i class="fa fa-angle-down"></i></a>
               {% for subcategory in dale.subcategories %}
                 <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
               {% endfor %}
