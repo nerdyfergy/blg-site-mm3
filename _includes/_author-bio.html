@@ -13,6 +13,9 @@
   <h3 itemprop="name">{{ author.name }}</h3>
   <p>{{ author.bio }}</p>
   {% if author.email %}<a href="mailto:{{ author.email }}" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>{% endif %}
+  {% if author.phone %}<a href="#" class="author-social" target="_blank"><i class="fa fa-fw fa-phone"></i> {{ author.phone }}</a>{% endif %}
+  {% if author.skype %}<a href="#" class="author-social" target="_blank"><i class="fa fa-fw fa-skype"></i> Skype</a>{% endif %}
+  
   {% if author.twitter %}<a href="http://twitter.com/{{ author.twitter }}" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>{% endif %}
   {% if author.facebook %}<a href="http://facebook.com/{{ author.facebook }}" class="author-social" target="_blank"><i class="fa fa-fw fa-facebook-square"></i> Facebook</a>{% endif %}
   {% if author.google.plus %}<a href="http://plus.google.com/+{{ author.google.plus }}" class="author-social" target="_blank"><i class="fa fa-fw fa-google-plus-square"></i> Google+</a>{% endif %}
@@ -29,9 +32,7 @@
   {% if author.steam %}<a href="http://steamcommunity.com/id/{{ author.steam }}" class="author-social" target="_blank"><i class="fa fa-fw fa-steam-square"></i> Steam</a>{% endif %}
   {% if author.youtube %}<a href="https://youtube.com/user/{{ author.youtube }}" class="author-social" target="_blank"><i class="fa fa-fw fa-youtube-square"></i> Youtube</a>{% endif %}
   {% if author.soundcloud %}<a href="http://soundcloud.com/{{ author.soundcloud }}" class="author-social" target="_blank"><i class="fa fa-fw fa-soundcloud"></i> Soundcloud</a>{% endif %}
-  {% if author.skype %}<a href="#" class="author-social" target="_blank"><i class="fa fa-fw fa-weibo"></i> Skype</a>{% endif %}
-  {% if author.phone %}<a href="#" class="author-social" target="_blank"><i class="fa fa-fw fa-flickr"></i> {{ author.phone }}</a>{% endif %}
-  {% if author.codepen %}<a href="http://codepen.io/{{ author.codepen }}" class="author-social" target="_blank"><i class="fa fa-fw fa-codepen"></i> CodePen</a>{% endif %}
+   {% if author.codepen %}<a href="http://codepen.io/{{ author.codepen }}" class="author-social" target="_blank"><i class="fa fa-fw fa-codepen"></i> CodePen</a>{% endif %}
   <br />
   <span class="normal-text"><p>Invite us to your Slack!</p></span>
 </div>
