@@ -15,10 +15,13 @@ Contact us via the social media links on the sidebar to the left, invite us to j
 We are happy to offer a free consultation to find out what you are looking for and to give us an opportunity to explain how we can help.
 
 <form action="//formspree.io/your@email.com" method="POST">
-  <input type="text" name="name" placeholder="Your Name" class="fifty">
-  <input type="text" name="_replyto" placeholder="Your email" class="fifty"/>
+  <label for="name"> Your Name </label>
+  <input type="text" name="name" placeholder="Your Name" class="fifty" id="name">
+  <label for="email"> Your Email </label>
+  <input type="text" name="_replyto" placeholder="Your email" class="fifty" id="email"/>
   <input type="hidden" name="_next" value="//site.io/thanks.html" />
   <input type="hidden" name="_subject" value="New submission!" class="fifty"/>
-  <textarea placeholder="Your message" class="textbox-sizing"></textarea>
+  <label for="subject"> Include some brief details about what you are looking for: </label>
+  <textarea placeholder="Your message" class="textbox-sizing" id="subject"></textarea>
   <input type="submit" value="Submit Email" class="btn halvsies">
 </form> 
