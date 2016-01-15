@@ -14,12 +14,12 @@ The Bamboo Law Group is a Professional Limited Liability Company located in Seat
 The firm was started in 2014, originally under the name Ferguson Trademark, PLLC. The focus of the firm changed from just a small trademark practice to a full service law firm in 2015. To signify this change in firm practices, Ferguson Trademark changed its at the beginning of 2016. 
 
 ## Our Attorney:
-Alex Ferguson
 
 <figure class="image-pull-right">
 	<img src="http://placehold.it/200x150.jpg">
+	<figcaption>Alex Ferguson.</figcaption>
 </figure>
-Alex has been licensed in the state of Washington since 2012 and has an application pending with the Oregon State Bar. He has helped several clients with needs ranging from intellectual property and contract drafting to employment law and general counsel services. 
+Alex Ferguson has been licensed in the state of Washington since 2012 and has an application pending with the Oregon State Bar. He has helped several clients with needs ranging from intellectual property and contract drafting to employment law and general counsel services. 
 
 Alex obtained his Juris Doctor from Gonzaga University School of Law in 2012. Part of that degree included a semester in Tokyo, Japan at Temple University's Japan campus law program. During law school, Alex interned at University Legal assistance, providing legal aid to seniors and low income individuals, was a judicial intern at the Spokane County Superior Court, and was an international legal intern at TMI Associates, which is one of the largest private law firms in Japan. While at TMI Associates, Alex gained experience drafting and reviewing contracts, and working on various trademark issues. After law school, Alex worked at a large class action claims administrator in Seattle, and with one of the world's largest stock photo companies, working on copyright issues. 
 
