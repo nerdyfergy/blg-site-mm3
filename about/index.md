@@ -17,7 +17,7 @@ The firm was started in 2014, originally under the name Ferguson Trademark, PLLC
 
 <figure class="image-pull-right">
 	<img src="http://placehold.it/200x150.jpg">
-	<figcaption class="halvsies">Alex Ferguson.</figcaption>
+	<figcaption>Alex Ferguson.</figcaption>
 </figure>
 Alex Ferguson has been licensed in the state of Washington since 2012 and has an application pending with the Oregon State Bar. He has helped several clients with needs ranging from intellectual property and contract drafting to employment law and general counsel services. 
 
