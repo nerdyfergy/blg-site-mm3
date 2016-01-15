@@ -13,13 +13,13 @@
   url: /industries/
   subcategories: 
     - subtitle: "eSports" 
-      subhref: "/esports-law/"   
+      subhref: "/industries/#esports"   
     - subtitle: "Game Developers" 
-      subhref: "/game-devs-law/" 
+      subhref: "/industries/#game-devs" 
     - subtitle: "Startups & Businesses" 
-      subhref: "/startup-law/" 
+      subhref: "/industries/#startups" 
     - subtitle: "Web Designers/Devs"
-      subhref: "/web-law/"
+      subhref: "/industries/#web-designers-and-web-developers"
 
 - title: Articles
   url: /posts/
