@@ -25,7 +25,7 @@ We are happy to offer a free consultation to find out what you are looking for a
   </div>
   <input type="hidden" name="_next" value="//site.io/thanks.html" />
   <input type="hidden" name="_subject" value="New submission!" class="fifty"/>
-  <label for="subject"> Include some brief details about what you are looking for: </label>
+  <label for="subject"> Include a few brief details about what you need: </label>
   <textarea placeholder="Your message" class="textbox-sizing" id="subject"></textarea>
   <input type="submit" value="Submit Email" class="btn halvsies">
 </form> 
