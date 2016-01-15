@@ -29,7 +29,7 @@ Whether you are a competitor, caster, or streamer, we can help with:
 Let us help you, so that you can just focus on competing.
 
 <a markdown="0" href="{{ site.url }}/contact" class="btn">View Our Contact Info</a>
-<a markdown="0" href="{{ site.url }}/esports-law/" class="halvsies">Learn More</a>
+
 
 ## Game Devs
 We might have grown up, but we have never grown out of gaming. Helping indie game developers with their business is why we went to law school and became attorneys. 
@@ -46,10 +46,9 @@ We can help you in the following ways:
   * DMCA takedowns
   * Cease and Desist Letters and Responses
   * Licensing rights
-<div class="split50">
-  <a markdown="0" href="{{ site.url }}/contact" class="btn">View Our Contact Info</a>
-  <a markdown="0" href="{{ site.url }}/game-devs-law/" class="halvsies">Learn More</a>
-</div>
+
+<a markdown="0" href="{{ site.url }}/contact" class="btn">View Our Contact Info</a>
+
 
 ## Startups
 We know that your startup is your life and you might not necessarily have the time, energy, or money to figure out and maintain compliance with all of the legal aspects of your startup. We understand the demands that you are faced with and we want to take the legal side of things off of your plate so that you can focus on making your product or service perfect for your investors and customers. 
@@ -61,7 +60,7 @@ We know that hiring a law firm can be scary and expensive, so spend some time ta
 Contact us and let us know how we can help. 
 
 <a markdown="0" href="{{ site.url }}/contact" class="btn">View Our Contact Info</a>
-<a markdown="0" href="{{ site.url }}/startup-law/" class="halvsies">Learn More</a>
+
 
 ## Web Designers and Web Developers
 We understand your business well. Our attorney's father has done web design work and even we have dabbled in it ourselves (do you like our jekyll site?). Designers, we can speak your language and understand things like HTML/Haml, CSS/SASS, and jQuery/Javascript (okay, we can only kind of fake our way through Javascript yet). Developers, we are have spent the last year polishing our Ruby on Rails skills and developing some side projects of our own. More importantly than being able to chat code with you, we know what legal troubles you might face in running your business.
@@ -81,4 +80,4 @@ We can help freelancers and firms with the following:
 * Protecting your IP
 
 <a markdown="0" href="{{ site.url }}/contact" class="btn">View Our Contact Info</a>
-<a markdown="0" href="{{ site.url }}/web-law/" class="halvsies">Learn More</a>
+
