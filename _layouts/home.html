@@ -57,12 +57,19 @@
     <h3><a href="{{ site.url}}/contact/">Contact Us</a></h3>
     <p>We offer free thirty minute consultations! Contact us via the sidebar, or submit the below form with your general question or request.</p>
     <form action="//formspree.io/your@email.com" method="POST">
-     <input type="text" name="name" placeholder="Your Name" class="fifty">
-     <input type="text" name="_replyto" placeholder="Your email" class="fifty"/>
-     <input type="hidden" name="_next" value="//site.io/thanks.html" />
-     <input type="hidden" name="_subject" value="New submission!" class="fifty"/>
-     <textarea placeholder="Your message" class="textbox-sizing"></textarea>
-     <input type="submit" value="Submit Email" class="btn halvsies">
+      <div class="fifty">
+        <label for="name"> Your Name </label>
+        <input type="text" name="name" placeholder="Your Name" id="name">
+      </div>
+      <div class="fifty">
+        <label for="email"> Your Email </label>
+        <input type="text" name="_replyto" placeholder="Your email" id="email"/>
+      </div>
+      <input type="hidden" name="_next" value="//site.io/thanks.html" />
+      <input type="hidden" name="_subject" value="New submission!" class="fifty"/>
+      <label for="subject"> Include a few brief details about what you need: </label>
+      <textarea placeholder="Your message" class="textbox-sizing" id="subject"></textarea>
+      <input type="submit" value="Submit Email" class="btn halvsies">
     </form> 
   </div><!-- /#index -->
 </div><!-- /#main -->
