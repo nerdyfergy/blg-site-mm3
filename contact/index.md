@@ -9,7 +9,7 @@ image:
   credit: Visualhunt
   creditlink: http://visualhunt.com/
 ---
-Contact us via the social media links on the sidebar to the left, invite us to join your team on slack, or just send us a quick email via the below form. 
+Contact us via the social media links on the sidebar to the left, invite us to join your team on Slack, or send us a quick email via the below form. 
 
 
 We are happy to offer a free consultation to better assesss what you are looking for and to give us an opportunity to explain how we can help.
@@ -26,6 +26,6 @@ We are happy to offer a free consultation to better assesss what you are looking
   <input type="hidden" name="_next" value="//site.io/thanks.html" />
   <input type="hidden" name="_subject" value="New submission!" class="fifty"/>
   <label for="subject"> Include a few brief details about what you need: </label>
-  <textarea placeholder="For example: My eSports team needs visas to play in a tournament!, or My game company needs an NDA and Independent Contractor Agreement drafted!, etc." class="textbox-sizing" id="subject"></textarea>
+  <textarea placeholder="For example: "My eSports team needs visas to play in a tournament", or "My game company needs NDAs and Independent Contractor Agreements drafted", etc." class="textbox-sizing" id="subject"></textarea>
   <input type="submit" value="Submit Email" class="btn halvsies">
 </form> 
