@@ -28,7 +28,7 @@ Whether you are a competitor, caster, or streamer, we can help with:
  
 Let us help you, so that you can just focus on competing.
 
-<a markdown="0" href="{{ site.url }}/contact" class="btn">View Our Contact Info</a>
+<a markdown="0" href="{{ site.url }}/contact">View Our Contact Info</a>
 
 
 ## Game Devs
@@ -47,7 +47,7 @@ We can help you in the following ways:
   * Cease and Desist Letters and Responses
   * Licensing rights
 
-<a markdown="0" href="{{ site.url }}/contact" class="btn">View Our Contact Info</a>
+<a markdown="0" href="{{ site.url }}/contact">View Our Contact Info</a>
 
 
 ## Startups
@@ -59,7 +59,7 @@ We know that hiring a law firm can be scary and expensive, so spend some time ta
 
 Contact us and let us know how we can help. 
 
-<a markdown="0" href="{{ site.url }}/contact" class="btn">View Our Contact Info</a>
+<a markdown="0" href="{{ site.url }}/contact" >View Our Contact Info</a>
 
 
 ## Web Designers and Web Developers
@@ -79,5 +79,5 @@ We can help freelancers and firms with the following:
   * ISPs
 * Protecting your IP
 
-<a markdown="0" href="{{ site.url }}/contact" class="btn">View Our Contact Info</a>
+<a markdown="0" href="{{ site.url }}/contact" >View Our Contact Info</a>
 
