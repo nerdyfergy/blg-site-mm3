@@ -25,4 +25,4 @@ Alex has a passion for technology and entertainment. He spent the last year lear
 
 Alex would like you to know that he is a normal person and not a stereotypical Type-A personallity lawyer. His favorite movie is "Bladerunner" and notes that the Final Cut is prefered. His favorite book is "Hardboiled Wonderland and the End of the World". His favorite game is "Legend of Zelda: Ocarina of Time", and his favorite TV show is "Mystery Science Theater 3000". If you like any of these things, then he would love to hear from you! Even if you don't like those things, he would still love to hear from you.
 
-<a markdown="0" href="{{ site.url }}/contact" class="btn">View Our Contact Info</a>
+<a markdown="0" href="{{ site.url }}/contact">View Our Contact Info</a>
