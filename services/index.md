@@ -27,7 +27,7 @@ We work on a wide variety of contracts and agreements for our clients, including
 
 Ensuring a well drafting contract is in place offers you peace of mind and ensures that everyone understands their obligations and requirements. Having a well drafted contract does not need to be expensive and we can help draft contracts and agreements that will keep your business protected and your business relationships healthy.
 
-<a markdown="0" href="{{ site.url }}/contact" class="btn">View Our Contact Info</a>
+<a markdown="0" href="{{ site.url }}/contact">View Our Contact Info</a>
 
 ## Forming Your Business
 Forming a business is almost always going to be more beneficial in the long run than operating as an unformed entity. The cost of filing and maintaining a formation is relatively low and it can be done relatively quickly. For example, in Washington, it costs $200 and takes 2-5 business days to file an LLC (as of 1/6/2016). The benefits of operating under a formed business entity are huge. Even if you are a solo developer releasing an app or program for free, there are benefits to releasing the product under a legally formed business entity. Aside from potential tax benefits, a properly formed and maintained business can protect your personal assets from liability that may arise from your business dealings.  
@@ -38,7 +38,7 @@ There are several differnt corporate forms and you should consult with an attorn
 
 Depending on your situation (single person business vs. multiple founders/members) and chosen business structure (LLC vs. Class C Corporation), there may be other expenses and obligations to be aware of that can have real consequences for you and your business. Things like operating agreements, corporate compliance, and by-laws can come into play and it pays to have someone advise you through some of the risks and liabilities. 
 
-<a markdown="0" href="{{ site.url }}/contact" class="btn">View Our Contact Info</a>
+<a markdown="0" href="{{ site.url }}/contact">View Our Contact Info</a>
 
 ## Advice and General Counsel Services
 We are experienced in providing general counsel services and are available to assist your company at any time and in any capacity. The cost of an in-house legal team or an attorney on full retainer is expensive and can negate the benefit of having an attorney on staff. We commit to learning the goals of your business and craft legal solutions that fit into the overall mission of your company. We can help with a particular legal question that is bothering you, or provide a thorough review of your business, on either a one-time or an on-going basis.     
@@ -47,4 +47,4 @@ We know that you confront complex legal issues every day including intellectual 
 
 Spend some time talking with us and see if it is a good fit first. We offer free consultations and want to hear about your business and your needs. We are also flexible when it comes to cost and can figure out something that works for your business strategy and income. If you can only afford a little bit of time, we can charge an affordable hourly rate. If you know you have things come up and need to be able to ask someone, we can work off of a block rate. If you just need a easily defined project completed, we can quote you a flat amount for that project. Contact us and let us know how we can help. 
 
-<a markdown="0" href="{{ site.url }}/contact" class="btn">View Our Contact Info</a>
+<a markdown="0" href="{{ site.url }}/contact">View Our Contact Info</a>
