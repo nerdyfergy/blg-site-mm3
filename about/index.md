@@ -9,11 +9,11 @@ image:
   credit: Visualhunt
   creditlink: http://visualhunt.com/
 ---
-The Bamboo Law Group is a Professional Limited Liability Company located in Seattle, Washington that provides clients from all over the world with high quality legal services. Like bamboo, we are versitile and flexible, offering a wide variety of different legal services at affordable rates. If you have special needs, we are more than happy to tailor our services and pricing to fit your business model. Our practice has a focus on helping individuals, small businesses, and startups and excels in providing reliable legal advice and drafting high quality work product to support your business needs.
+The Bamboo Law Group is a Professional Limited Liability Company located in Seattle, Washington that provides clients from all over the world with high quality legal services.  If you have special needs, we are more than happy to tailor our services and pricing to fit your business model. Our practice has a focus on helping individuals, small businesses, and startups and excels in providing reliable legal advice and drafting high quality work product to support your business.
 
-The firm was started in 2014, originally under the name Ferguson Trademark, PLLC. The focus of the firm changed from just a small trademark practice to a full service law firm in 2015. To signify this change in firm practices, Ferguson Trademark changed its at the beginning of 2016. 
+The firm was started in 2014, originally under the name Ferguson Trademark, PLLC. The focus of the firm changed from just a small trademark practice to a full service law firm in 2015. To signify this change in firm practices, Ferguson Trademark changed its at the beginning of 2016. We chose bamboo to represent our firm because we are also versitile and flexible, offering a wide variety of different legal services at affordable rates.
 
-## Our Attorney:
+## Our Attorney
 
 <figure class="image-pull-right">
 	<img src="http://placehold.it/200x150.jpg">
@@ -21,8 +21,6 @@ The firm was started in 2014, originally under the name Ferguson Trademark, PLLC
 </figure>
 Alex Ferguson has been licensed in the state of Washington since 2012. He has helped several clients with needs ranging from intellectual property and contract drafting to employment law and general counsel services. 
 
-Alex has a passion for technology and entertainment. He spent the last year learning a variety of web design and web development languages, is an avid reader of fiction, enjoys playing videogames with his wife, and watching eSports. 
-
-Alex would like you to know that he is a normal person and not a stereotypical Type-A personallity lawyer. His favorite movie is "Bladerunner" and notes that the Final Cut is prefered. His favorite book is "Hardboiled Wonderland and the End of the World". His favorite game is "Legend of Zelda: Ocarina of Time", and his favorite TV show is "Mystery Science Theater 3000". If you like any of these things, then he would love to hear from you! Even if you don't like those things, he would still love to hear from you.
+Alex has a passion for technology and entertainment. He spent the last year learning a variety of web design and web development languages, is an avid reader of fiction, and enjoys playing videogames and watching eSports. 
 
 <a markdown="0" href="{{ site.url }}/contact">View Our Contact Info</a>
