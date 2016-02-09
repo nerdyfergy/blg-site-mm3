@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Legal Services and Industries Served
-tags: [washingtong lawyer, washington attorney, seattle attorney, seattle videogame attorney]
+title: Providing Contract, Business, and General Counsel Legal Services
+tags: [washington lawyer, washington attorney, seattle attorney, seattle videogame attorney, seattle contract attorney]
 modified: 
 comments: false
 image:
