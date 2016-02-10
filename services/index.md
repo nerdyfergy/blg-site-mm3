@@ -48,3 +48,11 @@ We know that you confront complex legal issues every day including intellectual 
 Spend some time talking with us and see if it is a good fit first. We offer free consultations and want to hear about your business and your needs. We are also flexible when it comes to cost and can figure out something that works for your business strategy and income. If you can only afford a little bit of time, we can charge an affordable hourly rate. If you know you have things come up and need to be able to ask someone, we can work off of a block rate. If you just need a easily defined project completed, we can quote you a flat amount for that project. Contact us and let us know how we can help. 
 
 <a markdown="0" href="{{ site.url }}/contact">View Our Contact Info</a>
+
+## Advice and Guidence on Employment Law issues
+Are you hiring employees or independent contractors to perform services for your business? If so, then there are many laws and regulations that must be observed and several state agencies to work with in order to ensure compliance and avoid possible hefty fines. 
+
+We're well versed in the differences between independent contractors, employees, and temporary employees and we can help you to avoid worker misclassfication issues through the use of well drafted agreements and practical advice. 
+We have experience advising international businesses on some of the unique aspects of US employment law, including the Affordable Care Act, best hiring practices, and compliance for international businesses looking to hire in the US.
+
+<a markdown="0" href="{{ site.url }}/contact">View Our Contact Info</a>
