@@ -32,7 +32,7 @@ Let us help you, so that you can just focus on competing.
 
 
 ## Game Devs
-We might have grown up, but we have never grown out of gaming. Helping indie game developers with their business is why we went to law school and became attorneys. 
+We might have grown up, but we have never grown out of gaming. Helping indie game developers with their business is why we went to law school and became attorneys. We have experience providing legal services to game devs and are familiar with the common legal issues that indie game developers face.
 
 We can help you in the following ways:
 
@@ -63,7 +63,7 @@ Contact us and let us know how we can help.
 
 
 ## Web Designers and Web Developers
-We understand your business well. Our attorney's father has done web design work and even we have dabbled in it ourselves (do you like our jekyll site?). Designers, we can speak your language and understand things like HTML/Haml, CSS/SASS, and jQuery/Javascript (okay, we can only kind of fake our way through Javascript yet). Developers, we are have spent the last year polishing our Ruby on Rails skills and developing some side projects of our own. More importantly than being able to chat code with you, we know what legal troubles you might face in running your business.
+We understand your business well. Designers, we can speak your language and understand things like HTML/Haml, CSS/SASS, and jQuery/Javascript (okay, we can only kind of fake our way through Javascript yet). Developers, we are have spent the last year polishing our Ruby on Rails skills and developing some side projects of our own. More importantly than being able to chat code with you, we know what legal troubles you might face in running your business and we can help.
 
 We can help freelancers and firms with the following: 
 
