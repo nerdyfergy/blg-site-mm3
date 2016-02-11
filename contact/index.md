@@ -23,7 +23,7 @@ We are happy to offer a free consultation to better assesss what you are looking
     <label for="email"> Your Email </label>
     <input type="text" name="_replyto" placeholder="Your email" id="email"/>
   </div>
-  <input type="hidden" name="_next" value="{{ site.url }}/thanks.html" />
+  <input type="hidden" name="_next" value="{{ site.url }}/thanks/" />
   <input type="hidden" name="_subject" value="New submission!" class="fifty"/>
   <label for="subject"> Include a few brief details about what you need: </label>
   <textarea placeholder="For example: "My game company needs NDAs and Independent Contractor Agreements drafted", or "Can you help me register my business or eSports team as an LLC?" " class="textbox-sizing" id="subject"></textarea>
