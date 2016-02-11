@@ -14,7 +14,7 @@ Contact us via the social media links on the sidebar to the left, invite us to j
 
 We are happy to offer a free consultation to better assesss what you are looking for and to give us an opportunity to explain how we can help.
 
-<form action="//formspree.io/your@email.com" method="POST">
+<form action="//formspree.io/contact@bamboolawgroup.com" method="POST">
   <div class="fifty">
     <label for="name"> Your Name </label>
     <input type="text" name="name" placeholder="Your Name" id="name">
@@ -26,6 +26,6 @@ We are happy to offer a free consultation to better assesss what you are looking
   <input type="hidden" name="_next" value="//site.io/thanks.html" />
   <input type="hidden" name="_subject" value="New submission!" class="fifty"/>
   <label for="subject"> Include a few brief details about what you need: </label>
-  <textarea placeholder="For example: "My eSports team needs visas to play in a tournament", or "My game company needs NDAs and Independent Contractor Agreements drafted", etc." class="textbox-sizing" id="subject"></textarea>
+  <textarea placeholder="For example: "My game company needs NDAs and Independent Contractor Agreements drafted", or "Can you help me register my business or eSports team as an LLC?" " class="textbox-sizing" id="subject"></textarea>
   <input type="submit" value="Submit Email" class="btn halvsies">
 </form> 
