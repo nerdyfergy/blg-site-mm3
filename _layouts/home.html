@@ -56,7 +56,7 @@
     
     <h3><a href="{{ site.url}}/contact/">Contact Us</a></h3>
     <p>We offer free consultations! Contact us via the sidebar, or submit the below form with your general question or request.</p>
-    <form action="//formspree.io/your@email.com" method="POST">
+    <form action="//formspree.io/contact@bamboolawgroup.com" method="POST">
       <div class="fifty">
         <label for="name"> Your Name </label>
         <input type="text" name="name" placeholder="Your Name" id="name">
@@ -65,7 +65,7 @@
         <label for="email"> Your Email </label>
         <input type="text" name="_replyto" placeholder="Your email" id="email"/>
       </div>
-      <input type="hidden" name="_next" value="//site.io/thanks.html" />
+      <input type="hidden" name="_next" value="{{ site.url }}/thanks.html" />
       <input type="hidden" name="_subject" value="New submission!" class="fifty"/>
       <label for="subject"> Include a few brief details about what you need: </label>
       <textarea placeholder="Your message" class="textbox-sizing" id="subject"></textarea>
